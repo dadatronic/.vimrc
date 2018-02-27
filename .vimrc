@@ -1,4 +1,7 @@
+let mapleader=","
 set tabstop=4
+set softtabstop=4
+set number
 set nocompatible
 filetype off
 set rtp+=~/.vim/bundle/vundle/
